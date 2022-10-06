@@ -1,0 +1,14 @@
+C:\Users\egorl\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.exe.config
+C:\Users\egorl\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.exe
+C:\Users\egorl\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.pdb
+C:\Users\egorl\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\egorl\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.StorageForm.resources
+C:\Users\egorl\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.ProductForm.resources
+C:\Users\egorl\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\egorl\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\egorl\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\egorl\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.exe
+C:\Users\egorl\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.pdb
+C:\Users\egorl\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.UserForm.resources
+C:\Users\egorl\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.CartForm.resources
+C:\Users\egorl\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.AdminForm.resources
